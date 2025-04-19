@@ -7,7 +7,7 @@
     "theme_color": "#fff",
     "description": "",
     "icons": [{
-      "src": "GameIconTemp.png",
+      "src": "TemplateData/icons/unity-logo-light.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
