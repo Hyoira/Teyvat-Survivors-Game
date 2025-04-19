@@ -1,12 +1,11 @@
-const cacheName = "Hyoira-Teyvat-Survivors-1.0.2"; // ← バージョンを更新！
-
+const cacheName = "Hyoira-Teyvat-Survivors-1.0.3";
 const contentToCache = [
-  "index.html",
-  "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-  "Build/fe83b67b59f07f2ea0a473848c3a344c.framework.js",
-  "Build/6c27430e37b5b8bed623a064a56ef24f.data",
-  "Build/e835965485a021a460b1e01f36734554.wasm",
-  "TemplateData/style.css"
+    "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+    "Build/fe83b67b59f07f2ea0a473848c3a344c.framework.js",
+    "Build/9d8936c5d5c908e86098cdd06d2bc23e.data",
+    "Build/e835965485a021a460b1e01f36734554.wasm",
+    "TemplateData/style.css"
+
 ];
 
 // インストール時：リソースをキャッシュ
