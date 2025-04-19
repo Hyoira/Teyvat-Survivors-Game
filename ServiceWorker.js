@@ -1,9 +1,9 @@
-const cacheName = "Hyoira-Teyvat-Survivors-1.1";
+const cacheName = "Hyoira-Teyvat-Survivors-1.0.1";
 const contentToCache = [
     "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
     "Build/fe83b67b59f07f2ea0a473848c3a344c.framework.js",
-    "Build/a639b4121ec67e0d6bbd6b781c79e4fe.data",
-    "Build/34365bb2feb7f6e8265e550f894b2982.wasm",
+    "Build/6c27430e37b5b8bed623a064a56ef24f.data",
+    "Build/e835965485a021a460b1e01f36734554.wasm",
     "TemplateData/style.css"
 
 ];
